@@ -8,6 +8,7 @@
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-tabs": "^1.1.2",
     "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
     "class-variance-authority": "^0.7.1",
     "cra-template-typescript": "1.2.0",
     "lucide-react": "^0.468.0",
